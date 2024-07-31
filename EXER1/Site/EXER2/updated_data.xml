@@ -1,0 +1,8 @@
+<?xml version='1.0'?>
+<products>
+<product ID='1' Class='Tennis Apparel' Description='Asics Tennis Shoes' Price='120' Quantity='80' Date='2023-08-08'></product>
+<product ID='2' Class='vivencio' Description='qwdq' Price='321' Quantity='123' Date='2022-11-14'></product>
+<product ID='3' Class='Tennis Equipment' Description='Babolat Racket' Price='200' Quantity='50' Date='2024-01-20'></product>
+<product ID='4' Class='Tennis Apparel' Description='Adidas Tennis Shoes' Price='130' Quantity='90' Date='2022-11-25'></product>
+<product ID='28' Class='tennis' Description='test' Price='120' Quantity='30' Date='2022-11-13'></product>
+</products>
